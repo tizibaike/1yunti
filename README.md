@@ -4,7 +4,7 @@
 
 一云梯（1yunti）是成立于2024年的一家IPLC专线机场，采用Trojan协议，节点多，无倍率，不限制设备数，目前稳定性还可以。
 
-最新的官网地址：https://finalgo.xyz/n7xMF
+最新的官网地址：https://finalgo.xyz/WAhXz7
 
 ## 二、机场特色
 
